@@ -1,0 +1,1 @@
+import{j as r}from"./index-DMmvnVb_.js";import{a as t}from"./katex-lib-D9-EpZ7o.js";import"./react-vendor-D7XbCeBQ.js";import"./recharts-D3PR0wq0.js";import"./math-lib-BAEOvVFQ.js";var a=t();const o=({formula:t})=>r.jsx(a.BlockMath,{math:t});export{o as default};
